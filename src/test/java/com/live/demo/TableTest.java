@@ -1,4 +1,4 @@
-package com.pulselive.demo;
+package com.live.demo;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
